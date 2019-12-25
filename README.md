@@ -17,4 +17,4 @@ Resultat:
 
 
 Der Test `JdbcDemoTest` geht davon aus, dass eine MySQL DB unter jdbc:mysql://localhost:3306/jpademo erreichbar ist.
-Diese DB wurde mit dem Projekt https://github.com/juventusHF/spring-data-jpa aufgesetzt.
+Diese DB wurde mit dem Projekt https://github.com/juventusHF/swe3_spring-data-jpa aufgesetzt.
